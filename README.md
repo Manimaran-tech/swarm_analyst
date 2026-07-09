@@ -84,6 +84,10 @@ async with SqlDataAnalystEnv(base_url="http://localhost:8000") as env:
 
 Total episode score: clipped to [0.0, 1.0]
 
+## 🔑 API Keys
+
+We are currently working on integrating more models and services. Expect more API key options and configuration capabilities to appear in the Swarm Analyst environment soon!
+
 ## 📖 Open Source Project & Contributing
 
 SwarmAnalyst is an **open-source project** licensed under the MIT License. We welcome contributions from developers, researchers, and users. Whether you're fixing bugs, adding new features, or improving documentation, please read our [CONTRIBUTING.md](file:///d:/upgrade/sql_data_analyst/CONTRIBUTING.md) guide to learn how to set up your environment, follow coding standards, and submit Pull Requests.
